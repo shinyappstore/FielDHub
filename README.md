@@ -1,4 +1,4 @@
-<img src='man/figures/icon.gif' width = "140px" align="right"/>
+<img src='man/figures/icon.gif' width = "140px" />
 
 
 # FielDHub: Perform design of experiments in life sciences
